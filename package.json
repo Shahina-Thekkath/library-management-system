@@ -1,0 +1,17 @@
+{
+  "name": "library-system",
+  "version": "1.0.0",
+  "description": "A Library Management System built with TypeScript and OOP principles",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "tsc && node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
